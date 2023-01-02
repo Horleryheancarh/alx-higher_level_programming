@@ -12,4 +12,5 @@
 | -------- | ----------- |
 | `0-run` | Shell script that runs a script, with name in an env variable |
 | `1-run-inline` | Shell script that runs python code inline |
-
+| `2-print.py` | Python script to print a message |
+|  |  |
