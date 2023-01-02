@@ -14,4 +14,5 @@
 | `1-run-inline` | Shell script that runs python code inline |
 | `2-print.py` | Python script to print a message |
 | `3-print_number.py` | Python script to print number |
-|  |  |
+| `4-print_float.py` | Python script to print float |
+|||
