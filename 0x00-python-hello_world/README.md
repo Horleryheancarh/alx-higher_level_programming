@@ -15,4 +15,5 @@
 | `2-print.py` | Python script to print a message |
 | `3-print_number.py` | Python script to print number |
 | `4-print_float.py` | Python script to print float |
-|||
+| `5-print_string.py` | Python script to print string |
+|  |  |
