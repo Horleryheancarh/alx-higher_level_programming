@@ -18,4 +18,4 @@
 | `5-print_string.py` | Python script to print string |
 | `6-concat.py` | script to concatenate strings |
 | `7-edges.py` | script to slice a string |
-| `` | |
+| `8-concat_edges.py` | print parts of a string |
