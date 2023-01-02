@@ -23,3 +23,4 @@
 | `10-check_cycle` | Program to find loop in a linked list |
 | `100-write.py` | print with `write` sys |
 | `101-compile` | Shell script to compile a Python file |
+| `102-magic_calculation.py` | shell script to imitate a bytecode |
