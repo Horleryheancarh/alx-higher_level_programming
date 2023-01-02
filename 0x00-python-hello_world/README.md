@@ -20,3 +20,5 @@
 | `7-edges.py` | script to slice a string |
 | `8-concat_edges.py` | print parts of a string |
 | `9-easter_egg.py` | Print "The Zen of Python" |
+| `10-check_cycle` | Program to find loop in a linked list |
+| `100-write.py` | print with `write` sys |
