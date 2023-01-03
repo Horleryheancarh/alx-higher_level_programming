@@ -13,3 +13,4 @@
 | `0-positive_or_negative.py` | Prints if number is +ve, -ve, or 0 |
 | `1-last_digit.py` | Prints the last digit of a number |
 | `2-print_alphabet.py` | Print ASCII alphabet in lowercase |
+| `3-print_alphabt.py` | Print ASCII alphabt in lowrcas xcpt lttrs e and q |
