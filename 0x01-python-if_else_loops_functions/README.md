@@ -17,3 +17,4 @@
 | `4-print_hexa.py` | Print all numbers from `0` to `98` in decimal and hexadecimal |
 | `5-print_comb2.py` | Prints all numbers from `0` to `99` separated by comma |
 | `6-print_comb3.py` | Prints all possible combo of two digits separated by comma |
+| `7-islower.py` | Checks for lowercase characters |
