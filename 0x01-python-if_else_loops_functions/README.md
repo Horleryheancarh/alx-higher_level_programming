@@ -15,4 +15,5 @@
 | `2-print_alphabet.py` | Print ASCII alphabet in lowercase |
 | `3-print_alphabt.py` | Print ASCII alphabt in lowrcas xcpt lttrs e and q |
 | `4-print_hexa.py` | Print all numbers from `0` to `98` in decimal and hexadecimal |
-| `5-print_comb2.py` | Print all numbers from `0` to `99` separated by comma |
+| `5-print_comb2.py` | Prints all numbers from `0` to `99` separated by comma |
+| `6-print_comb3.py` | Prints all possible combo of two digits separated by comma |
