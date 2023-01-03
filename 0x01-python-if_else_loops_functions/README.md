@@ -22,3 +22,4 @@
 | `9-print_last_digit.py` | Prints last digit of a number |
 | `10-add.py` | Adds two inputs and return the value |
 | `11-pow.py` | Return the answer of `a` to the power of `b` |
+| `12-fizzbuzz.py` | FizzBuzz program |
