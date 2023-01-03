@@ -14,3 +14,4 @@
 | `1-last_digit.py` | Prints the last digit of a number |
 | `2-print_alphabet.py` | Print ASCII alphabet in lowercase |
 | `3-print_alphabt.py` | Print ASCII alphabt in lowrcas xcpt lttrs e and q |
+| `4-print_hexa.py` | Print all numbers from `0` to `98` in decimal and hexadecimal |
