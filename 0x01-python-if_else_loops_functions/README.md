@@ -23,3 +23,4 @@
 | `10-add.py` | Adds two inputs and return the value |
 | `11-pow.py` | Return the answer of `a` to the power of `b` |
 | `12-fizzbuzz.py` | FizzBuzz program |
+| `13-insert_number.c` | Insert node at a specified index |
