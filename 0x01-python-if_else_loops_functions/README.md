@@ -26,3 +26,4 @@
 | `13-insert_number.c` | Insert node at a specified index |
 | `100-print_tebahpla.py` | Prints ASCII alphabets in reverse uppercase and lowercase |
 | `101-remove_char_at.py` | Creates a copy of the string, and removes char at index `n` |
+| `102-magic_calculation.py` | Replicates a bytecode |
