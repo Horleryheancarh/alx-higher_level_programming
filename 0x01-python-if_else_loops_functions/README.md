@@ -20,3 +20,4 @@
 | `7-islower.py` | Checks for lowercase characters |
 | `8-uppercase.py` | Prints a string in uppercase |
 | `9-print_last_digit.py` | Prints last digit of a number |
+| `10-add.py` | Adds two inputs and return the value |
