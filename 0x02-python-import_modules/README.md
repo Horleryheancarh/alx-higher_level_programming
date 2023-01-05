@@ -18,3 +18,4 @@
 | `5-variable_load.py` | Import from a file and print it |
 | `100-my_calculator.py` | Imports functions from a file and handles basic operations |
 | `101-easy_print.py` | Import a file |
+| `102-magic_calculation.py` | Replicating a Python bytecode |
