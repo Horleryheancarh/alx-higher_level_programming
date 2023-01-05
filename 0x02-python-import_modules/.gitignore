@@ -2,3 +2,4 @@
 __pycache__/*
 linked_lists.c
 *_[0-9].py
+*_[0-9].pyc
