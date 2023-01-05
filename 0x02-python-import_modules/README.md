@@ -16,3 +16,4 @@
 | `3-infinite_add.py` | Print the result of addition of all arguments |
 | `4-hidden_discovery.py` | Prints all strings defined by a compiled module |
 | `5-variable_load.py` | Import from a file and print it |
+| `100-my_calculator.py` | Imports functions from a file and handles basic operations |
