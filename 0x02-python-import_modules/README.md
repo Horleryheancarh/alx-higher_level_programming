@@ -19,3 +19,4 @@
 | `100-my_calculator.py` | Imports functions from a file and handles basic operations |
 | `101-easy_print.py` | Import a file |
 | `102-magic_calculation.py` | Replicating a Python bytecode |
+| `103-fast_alphabet.py` | Print alphabets in uppercase |
