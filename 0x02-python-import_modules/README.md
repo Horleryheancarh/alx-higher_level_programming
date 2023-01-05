@@ -15,3 +15,4 @@
 | `2-args.py` | Print number and list of arguments |
 | `3-infinite_add.py` | Print the result of addition of all arguments |
 | `4-hidden_discovery.py` | Prints all strings defined by a compiled module |
+| `5-variable_load.py` | Import from a file and print it |
