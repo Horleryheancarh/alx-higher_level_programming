@@ -17,3 +17,4 @@
 | `4-hidden_discovery.py` | Prints all strings defined by a compiled module |
 | `5-variable_load.py` | Import from a file and print it |
 | `100-my_calculator.py` | Imports functions from a file and handles basic operations |
+| `101-easy_print.py` | Import a file |
