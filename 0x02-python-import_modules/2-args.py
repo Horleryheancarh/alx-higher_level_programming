@@ -6,9 +6,9 @@ if __name__ == "__main__":
     if i == 0:
         print("{:d} arguments.".format(i))
     elif i == 1:
-        print("{:d} argument.".format(i))
+        print("{:d} argument:".format(i))
     else:
-        print("{:d} arguments.".format(i))
+        print("{:d} arguments:".format(i))
 
     if i >= 1:
         i = 0
