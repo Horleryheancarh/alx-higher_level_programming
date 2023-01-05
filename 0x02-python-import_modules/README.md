@@ -12,4 +12,4 @@
 | -------- | ----------- |
 | `0-add.py` | Imports a function from `add-0.py` and print the result |
 | `1-calculation.py` | Imports maths functions from a file and prints the result |
-
+| `2-args.py` | Print number and list of arguments |
