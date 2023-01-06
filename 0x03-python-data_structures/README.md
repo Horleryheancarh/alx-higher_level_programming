@@ -18,3 +18,4 @@
 | `5-no_c.py` | Remove `c` and `C` from a string |
 | `6-print_matrix_integer.py` | Print a matrix of integers |
 | `7-add_tuple.py` | Add two tuples |
+| `8-multiple_returns.py` | Find the length and the first character of a sentence |
