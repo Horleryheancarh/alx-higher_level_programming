@@ -22,3 +22,4 @@
 | `9-max_integer.py` | Get the largest integer in a list |
 | `10-divisible_by_2.py` | Find all multiples of `2` in a list |
 | `11-delete_at.py` | Delete item at an index in a list |
+| `12-switch.py` | Switch values of variables |
