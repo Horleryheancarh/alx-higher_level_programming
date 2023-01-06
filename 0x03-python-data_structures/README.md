@@ -16,3 +16,4 @@
 | `3-print_reversed_list_integer.py` | Reverse a list and print it |
 | `4-new_in_list.py` | Replace an element in a list withput modifying the original list |
 | `5-no_c.py` | Remove `c` and `C` from a string |
+| `6-print_matrix_integer.py` | Print a matrix of integers |
