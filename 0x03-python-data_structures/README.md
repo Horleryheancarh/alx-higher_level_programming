@@ -11,3 +11,4 @@
 | Filename | Description |
 | -------- | ----------- |
 | `0-print_list_integer.py` | Print all integers of a list |
+| `1-element_at.py` | Print element at index |
