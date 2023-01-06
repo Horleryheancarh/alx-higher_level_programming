@@ -20,3 +20,4 @@
 | `7-add_tuple.py` | Add two tuples |
 | `8-multiple_returns.py` | Find the length and the first character of a sentence |
 | `9-max_integer.py` | Get the largest integer in a list |
+| `10-divisible_by_2.py` | Find all multiples of `2` in a list |
