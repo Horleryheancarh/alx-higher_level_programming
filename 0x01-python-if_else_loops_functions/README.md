@@ -1,4 +1,4 @@
-## If/else, loops, functions
+## Python - If/else, loops, functions
 
 
 ## Technologies
