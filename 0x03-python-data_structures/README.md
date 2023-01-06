@@ -17,3 +17,4 @@
 | `4-new_in_list.py` | Replace an element in a list withput modifying the original list |
 | `5-no_c.py` | Remove `c` and `C` from a string |
 | `6-print_matrix_integer.py` | Print a matrix of integers |
+| `7-add_tuple.py` | Add two tuples |
