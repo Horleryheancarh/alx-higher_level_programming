@@ -13,3 +13,4 @@
 | `0-square_matrix_simple.py` | Calculate the square value of all integers in a matrix |
 | `1-search_replace.py` | Replace all occurrences of an element by another in a new list |
 | `2-uniq_add.py` | Add all unique integers in a list |
+| `3-common_elements.py` | Find common elements in two sets |
