@@ -15,3 +15,4 @@
 | `2-uniq_add.py` | Add all unique integers in a list |
 | `3-common_elements.py` | Find common elements in two sets |
 | `4-only_diff_elements` | Find elements present in a single set |
+| `5-number_keys.py` | find number of keys in a dictionary |
