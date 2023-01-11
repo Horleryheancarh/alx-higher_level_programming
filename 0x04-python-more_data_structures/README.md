@@ -14,3 +14,4 @@
 | `1-search_replace.py` | Replace all occurrences of an element by another in a new list |
 | `2-uniq_add.py` | Add all unique integers in a list |
 | `3-common_elements.py` | Find common elements in two sets |
+| `4-only_diff_elements` | Find elements present in a single set |
