@@ -23,3 +23,5 @@
 | `10-divisible_by_2.py` | Find all multiples of `2` in a list |
 | `11-delete_at.py` | Delete item at an index in a list |
 | `12-switch.py` | Switch values of variables |
+| `13-is_palindrome.c` | Linked list palindrome |
+| `100-print_python_list_info.c` | C function to print info about Python lists |
