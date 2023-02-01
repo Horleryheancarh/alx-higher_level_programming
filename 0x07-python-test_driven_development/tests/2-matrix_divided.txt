@@ -1,0 +1,28 @@
+The ``2-matrix_divided`` module
+===============================
+
+Using ``matrix_divided``
+------------------------
+
+Importing function from the module:
+   >>> matrix_divided = __import__('2-matrix_divided').matrix_divided
+
+Dividing a matrix by 4
+   >>> matrix_divided([[16, 20], [32, 40]], 4)
+   [[4.0, 5.0], [8.0, 10.0]]
+
+Dividing a matrix by 0
+   >>> matrix_divided([[16, 20], [32, 40]], 0)
+   Traceback (most recent call last):
+	...
+   ZeroDivisionError: division by zero
+
+Dividing a matrix by a float
+   >>> matrix_divided([[1.6, 2], [3.2, 4]], 0.4)
+   [[4.0, 5.0], [8.0, 10.0]]
+
+Passing empty matrix
+   >>> matrix_divided([[],[]], 2)
+   Traceback (most recent call last):
+	...
+   TypeError: matrix must be a matrix (list of lists) of integers/floats

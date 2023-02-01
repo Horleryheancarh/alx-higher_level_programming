@@ -1,0 +1,6 @@
+*main.*
+__pycache__/*
+linked_lists.c
+6-max_integer.py
+*_[0-9].py
+*_[0-9].pyc

@@ -1,0 +1,36 @@
+The ``5-text_indentation`` module
+=================================
+
+Using ``text_indentation``
+--------------------------
+
+Importing the function from the module:
+   >>> text_indentation = __import__('5-text_indentation').text_indentation
+
+Printing the characters
+   >>> text_indentation(".?:")
+   .
+   <BLANKLINE>
+   ?
+   <BLANKLINE>
+   :
+   <BLANKLINE>
+
+Printing all in a sentence
+   >>> text_indentation("Jane: John, What are you doing? Oh! Thank you.")
+   Jane:
+   <BLANKLINE>
+   John, What are you doing?
+   <BLANKLINE>
+   Oh! Thank you.
+   <BLANKLINE>
+
+Passing integer
+   >>> text_indentation(6789)
+   Traceback (most recent call last):
+	...
+   TypeError: text must be a string
+
+Passing character as a string
+   >>> text_indentation('6789')
+   6789
