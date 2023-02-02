@@ -21,9 +21,9 @@ class Square:
         return self.__size ** 2
 
     @property
-    """Method to return size of the square
-    """
     def size(self):
+        """Method to return size of the square
+        """
         return self.__size
 
     @size.setter
