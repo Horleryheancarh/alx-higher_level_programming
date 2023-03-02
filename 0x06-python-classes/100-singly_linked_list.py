@@ -24,6 +24,7 @@ class Node:
             raise TypeError("next_node must be a Node object")
         self.__next_node = value
 
+
 class SinglyLinkedList:
     def __str__(self):
         rtn = ""
@@ -54,4 +55,3 @@ class SinglyLinkedList:
             self.__head = newNode
         else:
             ptr_prev.next_node = newNode
-
