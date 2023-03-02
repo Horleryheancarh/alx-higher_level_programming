@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 """Singly Linked List In Python
 """
+
+
 class Node:
     """Node Implementation
     """
