@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+"""Singly Linked List In Python
+"""
 class Node:
+    """Node Implementation
+    """
     def __init__(self, data, next_node=None):
         self.data = data
         self.next_node = next_node
@@ -26,6 +30,8 @@ class Node:
 
 
 class SinglyLinkedList:
+    """Linked List Implementation
+    """
     def __str__(self):
         rtn = ""
         ptr = self.__head
