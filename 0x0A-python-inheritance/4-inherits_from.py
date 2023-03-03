@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""Module Documentation"""
+
+
 def inherits_from(obj, a_class):
     """
     Function that checks if obj is a type of a_class
