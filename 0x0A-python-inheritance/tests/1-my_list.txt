@@ -100,7 +100,7 @@ Check printable
 
 Type of print_sorted
 >>> my_list = MyList()
->>> type(my_list.printed_sorted)
+>>> type(my_list.print_sorted)
 <class 'method'>
 
 
