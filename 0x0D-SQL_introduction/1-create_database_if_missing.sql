@@ -1,3 +1,3 @@
--- Checks Database and Create if does not exist
+-- Checks database and creates it if does not exist
 -- Query to create htbn_0c_0 in MySQL
-CREATE DATABASE IF NOT EXISTS htbn_0c_0;
+CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
