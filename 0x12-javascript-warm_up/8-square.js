@@ -4,10 +4,10 @@ if (Number.isNaN(size)) {
   console.log('Missing size');
 } else {
   for (let i = 0, str; i < size; i++) {
-    s = '';
+    str = '';
     for (let j = 0; j < size; j++) {
-      s  += 'X';
+      str += 'X';
     }
-    console.log(s);
+    console.log(str);
   }
 }
