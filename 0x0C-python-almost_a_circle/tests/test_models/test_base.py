@@ -71,8 +71,6 @@ class TestBaseMethods(unittest.TestCase):
 
         try:
             os.remove('Square.json')
-        except:
-            pass
 
         Square.save_to_file([])
         with open('Square.json', 'r') as f:
@@ -89,8 +87,6 @@ class TestBaseMethods(unittest.TestCase):
 
         try:
             os.remove('Rectangle.json')
-        except:
-            pass
 
         Rectangle.save_to_file([])
         with open('Rectangle.json', 'r') as f:

@@ -2,6 +2,7 @@
 """Module that class Square that inherits from Rectangle"""
 from models.rectangle import Rectangle
 
+
 class Square(Rectangle):
     """Class Rectangle"""
 
