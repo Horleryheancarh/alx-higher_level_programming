@@ -50,7 +50,7 @@ class Square(Rectangle):
 
     def to_dictionary(self):
         """Dictionary with properties"""
-        lst = ['id', 'width', 'height', 'x', 'y']
+        lst = ['id', 'size', 'x', 'y']
         dct = {}
 
         for key in lst:

@@ -100,8 +100,8 @@ class Base:
                 matrix.append(list_dic[:])
 
         with open(filename, 'w') as f:
-            writer = csv.write(f)
-            writer.writer.writerows(matrix)
+            writer = csv.writer(f)
+            writer.writerows(matrix)
 
     @classmethod
     def load_from_file_csv(cls):
