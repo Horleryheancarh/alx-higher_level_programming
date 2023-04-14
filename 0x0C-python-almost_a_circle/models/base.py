@@ -72,7 +72,7 @@ class Base:
         list_ins = []
 
         for index in range(len(list_cls)):
-            list_ins.append(cls.create(**list_cls(index)))
+            list_ins.append(cls.create(**list_cls[index]))
 
         return list_ins
 
